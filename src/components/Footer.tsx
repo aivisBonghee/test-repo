@@ -5,7 +5,7 @@ import styled from 'styled-components';
 const FooterContainer = styled.section`
   h2 {
     font-size: 2rem;
-    color: green;
+    color: yellow;
   }
 `;
 
